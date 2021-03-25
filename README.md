@@ -1,1 +1,0 @@
-# lg-wp1-manifest-generator
