@@ -1,4 +1,4 @@
-# lg-wp1-manifest-generator
+# frontend
 
 ## Project setup
 ```
